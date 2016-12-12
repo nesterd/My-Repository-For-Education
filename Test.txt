@@ -3,4 +3,5 @@ Second Test
 
 New changes after adding new branch
 
-Change for conflict in feature
+reserve only one change
+   to fix conflict
